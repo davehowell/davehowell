@@ -16,7 +16,7 @@
     <div>
     <a href="https://aws.amazon.com/"><img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" /></a>&nbsp
     <a href="https://spark.apache.org/"><img height="50" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark" /></a>&nbsp
-    <a href="https://www.databricks.com/"><img height="50" src="https://azure.microsoft.com/svghandler/databricks/?height=50/" alt="Databricks" title="Databricks" /></a>&nbsp
+    <a href="https://www.databricks.com/"><img height="50" src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" alt="Databricks" title="Databricks" /></a>&nbsp
     <a href="https://www.terraform.io/"><img height="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform" /></a>&nbsp
     <a href="https://www.typescriptlang.org/"><img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" /></a>&nbsp
     <a href="https://www.python.org/"><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></a>&nbsp
